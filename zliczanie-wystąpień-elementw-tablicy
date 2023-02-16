@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T09:52:50.766Z" agent="5.0 (Windows)" etag="OpnqscJyIJeq6DK_Loay" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T10:05:02.336Z" agent="5.0 (Windows)" etag="xq-BNzSeaXYIGvP53fOk" version="20.8.20" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,11 +13,25 @@
         <mxCell id="eC2tRmgG9aZaxIzls3E1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eC2tRmgG9aZaxIzls3E1-1" target="eC2tRmgG9aZaxIzls3E1-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eC2tRmgG9aZaxIzls3E1-1" value="Podanie tablicy a&lt;br&gt;utworzenie i = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eC2tRmgG9aZaxIzls3E1-1" value="podanie tablicy a&lt;br&gt;utworzenie tablicy b&lt;br&gt;utworzenie i = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eC2tRmgG9aZaxIzls3E1-6" value="TAK" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eC2tRmgG9aZaxIzls3E1-3" target="eC2tRmgG9aZaxIzls3E1-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eC2tRmgG9aZaxIzls3E1-3" value="i &amp;lt; a.długość" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eC2tRmgG9aZaxIzls3E1-9" value="NIE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eC2tRmgG9aZaxIzls3E1-7" target="eC2tRmgG9aZaxIzls3E1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eC2tRmgG9aZaxIzls3E1-7" value="czy istnieje&lt;br&gt;b[a[i]][0]?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eC2tRmgG9aZaxIzls3E1-8" value="przypisz wartość&lt;br&gt;b[a[i]][0] = 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
