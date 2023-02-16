@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T09:33:42.666Z" agent="5.0 (Windows)" etag="b-7dL1TJEbvObqsBGhgh" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T09:40:33.627Z" agent="5.0 (Windows)" etag="3s4IZYx-ORo96LKtNXLC" version="20.8.20" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="1x0LRxSAKxVGkou_S9c3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1x0LRxSAKxVGkou_S9c3-1" target="1x0LRxSAKxVGkou_S9c3-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1x0LRxSAKxVGkou_S9c3-1" value="Stworzenie tablicy&lt;br&gt;a = [1, 3, 2, 4, 5]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1x0LRxSAKxVGkou_S9c3-1" value="Stworzenie tablicy&lt;br&gt;a = [1, 3, 2, 4, 7]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1x0LRxSAKxVGkou_S9c3-7" value="TAK" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1x0LRxSAKxVGkou_S9c3-3" target="1x0LRxSAKxVGkou_S9c3-6">
